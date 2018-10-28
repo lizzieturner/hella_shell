@@ -1,6 +1,6 @@
 # hella_shell
 
-![hella shell](hella_shell.jpg)
+![hella shell](welcome.jpg)
 
 
 ## Table of Contents
