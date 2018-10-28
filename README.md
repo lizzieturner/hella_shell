@@ -1,5 +1,3 @@
-# hella_shell
-
 ![hella shell](welcome.jpg)
 
 
